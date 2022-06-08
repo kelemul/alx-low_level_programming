@@ -12,8 +12,10 @@
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
+	
 	/* 
 	 * this will return 0
 	 */
+
 	return (0);
 }
