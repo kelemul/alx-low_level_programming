@@ -7,7 +7,7 @@
 
 /*
  * main - Prints "this will print the following string "
- * 	 followed by a new line.
+ *	followed by a new line.
  *
  * Return: Always 0.
  */
