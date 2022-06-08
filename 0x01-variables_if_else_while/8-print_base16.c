@@ -8,7 +8,7 @@
 /**
  * main - print base 16 numbers
  *
- * Returrn: is 0.
+ * Return: is 0.
  */
 int main(void)
 {
