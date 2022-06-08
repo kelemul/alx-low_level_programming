@@ -1,6 +1,7 @@
 /*
- * File name:0-positive-ornegetive.c
- * Author:kelemu leykun
+ * File :;no file name
+ * Author: kelemu leykun
+ *
  */
 
 #include <stdlib.h>
@@ -8,23 +9,20 @@
 #include <stdio.h>
 
 /**
- * main -will generate a random number and
- * it will determine if it is negativ, positive or zero
+ * main-prints nothing
+ * return:always 0.
  *
- * Return: will always 00.
- */
+ * */
 int main(void)
 {
-	int x;
+	int n;
 	srand(time(0));
-	x=rand() - RAND_MAX / 2;
-
-	if (x > 0)
-		printf("%d is positive\n", x);
-	else if ( x < 0)
-		printf("%d is negative\n", x);
+	n = rand() - RAND_MAX / 2;
+	if (n > 0)
+		printf("%d is positive\n", n);
+	else if (n < 0)
+		printf("%d is negative\n", n);
 	else
-		printf("%d is zero\n", x);
-
+		printf("%d is zero\n", n);
 	return (0);
 }
