@@ -6,8 +6,7 @@
 #include <stdio.h>
 
 /*
- * main - Prints "this will print the following string 
- *	with ", followed by a new line.
+ * main - Prints "this will print the following string  with ", followed by a new line.
  *
  * Return: Always 0.
  */
