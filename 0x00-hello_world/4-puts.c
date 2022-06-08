@@ -1,18 +1,19 @@
 /*
- * file name:4-puts.c
- *Author:Kelemu leykun
- *email: kelemu3509@gmail.com
- */
+ *  Filename: 4-puts.c
+ * Author: kelemu leykun
+  */
 
 #include <stdio.h>
 
 /**
- *this program will print the following string in the function body
+ * main - Prints "some string in the main function
+ *                , followed by a new line.
  *
- * return 0 is included
- */
+ * Return: Always 0.
+ *      */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+		puts("\"Programming is like building a multilingual puzzle");
+
+			return (0);
 }
