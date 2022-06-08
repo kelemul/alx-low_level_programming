@@ -6,7 +6,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - prints lower case english apha bets
  *
  * Return: is 0.
