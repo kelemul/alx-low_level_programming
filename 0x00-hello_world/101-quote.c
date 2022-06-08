@@ -1,12 +1,13 @@
 /*
- * File: 101-quote.c
- * Author:kelemu leykun
+ * file:101-quote.c
+ * Author:Kelemu leykun
+ *
  */
 
 #include <unistd.h>
 
 /**
- * the main function will print "the string in the main
+ *the main function will print "the string in the main
  * function"
  * followed by a new line.
  * the Return: Always 1.
