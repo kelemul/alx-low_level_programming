@@ -6,8 +6,8 @@
 #include "main.c"
 
 /**
- * print_most_numbers - print numbers except 2 and 4.
- * main -checks the code
+ * main - checks the code
+ * print_most_numbers - print 0-9 except 2 and 4
  *
  * Return: always 0
  */
