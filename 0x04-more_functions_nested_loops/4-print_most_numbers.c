@@ -6,7 +6,10 @@
 #include "main.c"
 
 /**
- * print_most_numbers - print numbers except 2&4.
+ * print_most_numbers - print numbers except 2 and 4.
+ * main -checks the code
+ *
+ * Return: always 0
  */
 void print_most_numbers(void)
 {
