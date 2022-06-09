@@ -4,6 +4,7 @@
  */
 
 #include "main.h"
+#include <stdio.h>
 
 /**
  * _isupper - it will check if the letter is upper or not
