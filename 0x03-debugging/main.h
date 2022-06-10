@@ -1,11 +1,5 @@
-#ifndef MAIN_H
+#ifndef MAAIN_H
 #define MAIN_H
-
-/*
- * File: main.h
- * Auth: kelemu l
- * Desc: no description
- */
 
 #include <stdio.h>
 

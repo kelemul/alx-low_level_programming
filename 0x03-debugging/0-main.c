@@ -1,16 +1,16 @@
-#include "../main.h"
-#include <studio.h>
+#include "main.h"
 
 /**
- * main - check
- *
- * Return: always 0.
+ * main - test a number for positive or negative
+ * Return: 0
  */
+
 int main(void)
 {
-	int c;
+	int i;
 
-	positive_or_negative(c);	
-	
+	i = 0;
+	positive_or_negative(i);
+
 	return (0);
 }
