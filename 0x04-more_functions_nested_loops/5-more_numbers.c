@@ -3,7 +3,7 @@
  * Author: kelemu L.
  */
 
-#include "main.c"
+#include "main.h"
 
 /**
  * more_numbers - print a lot
