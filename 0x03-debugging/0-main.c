@@ -9,6 +9,8 @@
 int main(void)
 {
 	int c;
+
+	positive_or_negative(c);	
 	
 	return (0);
 }
