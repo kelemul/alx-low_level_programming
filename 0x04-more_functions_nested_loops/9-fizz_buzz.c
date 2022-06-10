@@ -6,7 +6,9 @@
 #include <stdio.h>
 
 /**
- * main - prints a number anfd Fiz for multiples
+ * main - prints a number anfd Fiz for multiples of 3
+ * Buzz for multiplies of 5
+ * FizzBuzz, for multiplies of three and five.
  *
  * Return: is 0.
  */
@@ -32,8 +34,8 @@ int main(void)
 			continue;
 		printf(" ");
 	}
-
+	
 	printf("\n");
-
+	
 	return (0);
 }
