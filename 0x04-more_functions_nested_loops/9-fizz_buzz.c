@@ -1,16 +1,16 @@
 /*
- * File: fiz buzz game
- * Author: kelemu
+ * File: 9-fizz_buzz.c
+ * Auth: Kelemu leykun
  */
 
 #include <stdio.h>
 
 /**
- * main - prints a number anfd Fiz for multiples of 3
- * Buzz for multiplies of 5
- * FizzBuzz, for multiplies of three and five.
+ * main - Prints the numbers from 1-100, but for multiples of three,
+ *        Fizz is printed instead of the number, for multiples of five,
+ *        Buzz, and for multiples of both three and five, FizzBuzz.
  *
- * Return: is 0.
+ * Return: Always 0.
  */
 int main(void)
 {
@@ -20,7 +20,7 @@ int main(void)
 	{
 		if ((num % 3) == 0 && (num % 5) == 0)
 			printf("FizzBuzz");
-		
+
 		else if ((num % 3) == 0)
 			printf("Fizz");
 
@@ -34,8 +34,8 @@ int main(void)
 			continue;
 		printf(" ");
 	}
-	
+
 	printf("\n");
-	
+
 	return (0);
 }
