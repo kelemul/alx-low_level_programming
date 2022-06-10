@@ -6,9 +6,7 @@
 #include <studio.h>
 
 /**
- * main -prints a number anfd Fiz for multiples of 3
- * buzz for multiples of 5 and FizzBuzz for
- * multiples of 3 and 5
+ * main - prints a number anfd Fiz for multiples
  *
  * Return: is 0.
  */
