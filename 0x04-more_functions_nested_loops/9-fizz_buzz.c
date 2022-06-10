@@ -3,7 +3,7 @@
  * Author: kelemu
  */
 
-#include <studio.h>
+#include <stdio.h>
 
 /**
  * main - prints a number anfd Fiz for multiples
