@@ -1,6 +1,6 @@
 /*
  * File: 0-reset_to_98.c
- * Auth: KELEMU L. 
+ * Auth: KELEMU L.
  */
 
 #include "main.h"
