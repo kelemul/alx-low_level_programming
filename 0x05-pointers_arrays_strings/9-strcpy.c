@@ -3,6 +3,7 @@
  * Author: Kelemu Leykun.
  */
 
+#include<string.h>
 #include "main.h"
 
 /**
@@ -14,13 +15,7 @@
  */
 char *_strcpy(char *dest, const char *src)
 {
-	int index = 0;
+	strcpy(dest, src);
 
-	while (src[index])
-	{
-		dest[index] = src[index];
-		index++;
-	}
-
-	return (strcat(dest,'\0');
+	return (dest);
 }
