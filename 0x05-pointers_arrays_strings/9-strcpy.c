@@ -22,5 +22,5 @@ char *_strcpy(char *dest, const char *src)
 		index++;
 	}
 
-	return (dest);
+	return (strcat(dest,'\0');
 }
