@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 /**
- * main  priints fibonacci nuber
+ * main - priints fibonacci nuber
  *
  * Return: Always 0.
  */
