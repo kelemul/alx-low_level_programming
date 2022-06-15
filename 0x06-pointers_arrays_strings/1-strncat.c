@@ -6,11 +6,11 @@
 #include "main.h"
 
 /**
- * _strncat - Concatenates two strings
- * @dest: The second car
- * @src: The first char
- * @n: The number of bytes 
- * Return: the concated string
+ * _strncat - Concatenates two strings.
+ * @dest: The second car.
+ * @src: The first char.
+ * @n: The number of bytes.
+ * Return: the concated string.
  */
 char *_strncat(char *dest, char *src, int n)
 {
