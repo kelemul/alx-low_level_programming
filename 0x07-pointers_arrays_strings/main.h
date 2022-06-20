@@ -2,9 +2,10 @@
 #define MAIN_H
 
 /**
- * File: main.h
- * Auth: KELEMU L.
- * Desc: Header file with function prototype
+ * File: Main.h
+ * Auth: kelemu l
+ * Desc: Header file containing prototypes for all functions
+ *       used in the 0x06-pointers_arrays_strings directory.
  */
 
 #include <stddef.h>
