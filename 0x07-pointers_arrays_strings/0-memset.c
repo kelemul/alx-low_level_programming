@@ -1,17 +1,18 @@
 /*
  * File: 0-memset.c
- * Auth: KELEMU l
+ * Auth: kelemu l.
  */
 
 #include "main.h"
 
 /**
- * memset - Fill the memory with pointer
- * @s: A pointer.
- * @c: The character to be filled.
+ * memset - Fills the first n bytes of the memory area
+ *          pointed to by @s with the constant byte @c.
+ * @s: A pointer to the memory area to be filled.
+ * @c: The character to fill the memory area with.
  * @n: The number of bytes to be filled.
  *
- * Return: it will return @s.
+ * Return: A pointer to the filled memory area @s.
  */
 void *_memset(void *s, int c, size_t n)
 {
