@@ -1,6 +1,6 @@
 /*
  * File: 0-memset.c
- * Auth: KELEMU l.
+ * Auth: KELEMU l
  */
 
 #include "main.h"
@@ -11,7 +11,7 @@
  * @c: The character to be filled.
  * @n: The number of bytes to be filled.
  *
- * Return: @s.
+ * Return: it will return @s.
  */
 void *_memset(void *s, int c, size_t n)
 {
