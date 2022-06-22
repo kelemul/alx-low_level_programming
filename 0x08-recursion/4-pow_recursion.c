@@ -2,8 +2,10 @@
 
 /**
  * _pow_recursion - prints thhe power of x recursively
- * 
- * Return: the power of @x by @y
+ * @x: The base number
+ * @y: The exponent number
+ *
+ * Return: The power of @x by @y
  */
 int _pow_recursion(int x, int y)
 {
