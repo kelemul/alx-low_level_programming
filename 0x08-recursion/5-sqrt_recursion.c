@@ -1,3 +1,8 @@
+/*
+ * File: 5-dqrt_reursion.c
+ * authr: Kelemu L
+ */
+
 #include "main.h"
 
 int find_min(int num, int mid);
@@ -5,6 +10,8 @@ int _sqrt_recursion(int n);
 
 /**
  * find_min: Finds the mid number
+ * @num: the original number
+ * @mid: The middest number
  *
  * Return: Returns the mid number
  */
