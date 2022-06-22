@@ -9,7 +9,7 @@ int find_min(int num, int mid);
 int _sqrt_recursion(int n);
 
 /**
- * find_min: Finds the mid number
+ * find_min - Finds the mid number
  * @num: the original number
  * @mid: The middest number
  *
