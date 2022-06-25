@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - gets the umber of arguments
- * @argc: number of arguments
+ * main - returns all arguments
+ * @argc: number of args
  * @argv: list of arguments
- * 
+ *
  * Return: is 0
  */
 int main(int argc, char *argv[])
