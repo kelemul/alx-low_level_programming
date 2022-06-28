@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * craete_array - generate an array of characters
+ * create_array - generate an array of characters
  * @s: The s of array
  * @c:  asingle char
  *
