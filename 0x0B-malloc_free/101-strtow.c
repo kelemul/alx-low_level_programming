@@ -50,7 +50,7 @@ int counter(char *str)
 }
 
 /**
- * strow - string splitter
+ * strtow - string splitter
  * @str: the string being splitted
  *
  * Return: NULL or the words
