@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * str-concat - merges two strings
+ * str_concat - merges two strings
  * @str1: main string
  * @str2: the string to be merged
  *
