@@ -1,3 +1,7 @@
+/*
+ * file-name: 2-calloc.c
+ * auth:kelemu L.
+ */
 #include "main.h"
 #include <stdlib.h>
 
