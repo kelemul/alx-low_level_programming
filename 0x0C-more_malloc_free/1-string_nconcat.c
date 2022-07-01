@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * string_nconcat - concatenates two string and returns the pointer
+ * string_nconcat - concatenates two string
  * @s1: the first string
  * @s2: the second string
  *
