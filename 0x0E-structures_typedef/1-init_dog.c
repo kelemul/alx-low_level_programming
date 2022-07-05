@@ -1,3 +1,8 @@
+/*
+ * File: /-init_dog.c
+ * Author: kelemu L.
+ */
+
 #include "dog.h"
 #include <stdlib.h>
 
