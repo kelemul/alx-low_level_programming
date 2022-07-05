@@ -1,3 +1,7 @@
+/*
+ * File: dog.h
+ */
+
 /**
  * struct dog - dog type
  * @name: dogs name
