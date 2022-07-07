@@ -1,3 +1,7 @@
+/*
+ * Auth: KelemuL.
+ */
+
 #include "variadic_functions.h"
 #include <stdarg.h>
 
