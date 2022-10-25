@@ -1,3 +1,9 @@
+/**
+ * hash_djb2 - hash converter
+ * @str: the string to be converted
+ *
+ * Return: the hash value
+ */
 unsigned long int hash_djb2(const unsigned char *str)
 {
     unsigned long int hash;
